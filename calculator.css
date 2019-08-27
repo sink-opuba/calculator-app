@@ -99,3 +99,19 @@ button:focus {
   grid-gap: 20px;
   padding: 20px;
 }
+
+@media only screen and (max-width: 400) {
+  html {
+    font-size: 60%;
+  }
+  .calculator {
+    width: 358px;
+  }
+  button {
+    height: 2.8em;
+  }
+  .calculator__keys {
+    grid-gap: 15px;
+    padding: 15px;
+  }
+}
