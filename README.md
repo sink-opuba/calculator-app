@@ -1,2 +1,3 @@
 # calculator-app
-A vanilla JS calculator app live here 
+
+A vanilla JS calculator app live here https://sink-opuba.github.io/calculator-app/
